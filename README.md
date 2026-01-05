@@ -9,10 +9,10 @@ The goal is to compare their performance on a custom dataset of sentence pairs l
 
 ## Repository Structure
 
-- `data/dataset.csv`  
+- `dataset.csv`  
   Custom dataset containing sentence pairs and binary similarity labels.
 
-- `notebooks/semantic_similarity_evaluation.ipynb`  
+- `semantic_similarity_evaluation.ipynb`  
   Google Colab notebook implementing vectorization, cosine similarity, and evaluation.
 
 ## How to Run
