@@ -18,4 +18,4 @@ The goal is to compare their performance on a custom dataset of sentence pairs l
 ## How to Run
 
 1. Install dependencies
-2.Open the notebook and run all cells.
+2. Open the notebook and run all cells.
